@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 450 450" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="10" height="10"/>
+  </defs>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="74.365" y1="10.291" x2="375.453" y2="10.291"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="74.365" y1="10.291" x2="10" y2="127"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="375.498" y1="10.584" x2="440" y2="127.294"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="440" y1="127.294" x2="225.007" y2="400"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="225.007" y1="400" x2="10" y2="127"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="10" y1="127" x2="440" y2="127"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="311.01" y1="127" x2="289.51" y2="10"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="311.01" y1="127" x2="225.007" y2="400"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="160.505" y1="10" x2="139.004" y2="127"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-linecap: round; paint-order: fill; stroke-width: 20px;" x1="139.004" y1="127" x2="225.007" y2="400"/>
+</svg>

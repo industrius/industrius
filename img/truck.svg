@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 450 450" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="10" height="10"/>
+  </defs>
+  <circle style="fill: none; stroke-miterlimit: 9; stroke-width: 20px; stroke: rgb(255, 63, 64);" cx="130" cy="280" r="50" transform="matrix(1.042676, 0, 0, 1.033206, -16.431627, -0.958065)"/>
+  <circle style="fill: none; stroke-miterlimit: 9; stroke-width: 20px; stroke: rgb(255, 63, 64);" cx="330" cy="280" r="50" transform="matrix(1.042676, 0, 0, 1.033206, -16.51034, -0.958235)"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-width: 20px; stroke-linecap: round;" x1="198.125" y1="288.341" x2="248.693" y2="288.341"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-width: 20px; stroke-linecap: round;" x1="408.72" y1="288.341" x2="440" y2="288.341"/>
+  <line style="stroke: rgb(255, 63, 64); stroke-width: 20px; stroke-linecap: round;" x1="41.28" y1="291.469" x2="10" y2="291.469"/>
+  <line style="stroke-width: 20px; stroke-linecap: round; stroke: rgb(255, 63, 64);" x1="440" y1="288.341" x2="440" y2="58.531"/>
+  <line style="stroke-width: 20px; stroke-linecap: round; stroke: rgb(255, 63, 64);" x1="440" y1="58.531" x2="290.399" y2="58.531"/>
+  <line style="stroke-width: 20px; stroke-linecap: round; stroke: rgb(255, 63, 64);" x1="440" y1="175" x2="361.119" y2="175"/>
+  <line style="stroke-width: 20px; stroke-linecap: round; stroke: rgb(255, 63, 64);" x1="359.375" y1="174.688" x2="359.375" y2="58.531"/>
+  <line style="stroke-width: 20px; stroke-linecap: round; stroke: rgb(255, 63, 64);" x1="278.75" y1="216.015" x2="278.75" y2="10"/>
+  <line style="stroke-width: 20px; stroke-linecap: round; stroke: rgb(255, 63, 64);" x1="278.75" y1="10" x2="10" y2="10"/>
+  <line style="stroke-width: 20px; stroke-linecap: round; stroke: rgb(255, 63, 64);" x1="10" y1="13.131" x2="10" y2="291.469"/>
+</svg>
